@@ -13,14 +13,10 @@ p {
 }
 
 body {
-  background-image: url("http://rcysl.com/wp-content/uploads/2016/12/Beautiful-Ocean-Pictures-Photos.jpg");
   background-color: #cccccc;
 }
 
 img {
   width:20%;
   height:20%;
-  display: block;
-  margin: auto;
-  border-radius: 50%;
 }
