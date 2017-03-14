@@ -1,0 +1,11 @@
+img {
+  width:15%;
+  height:15%;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+body {
+  background-color: #cccccc;
+}

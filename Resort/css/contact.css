@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  text-decoration-style: solid;
+  text-align: center;
+  font-family: fantasy;
+  line-height: normal;
+}
+
+body{
+  background-color: green;
+}
